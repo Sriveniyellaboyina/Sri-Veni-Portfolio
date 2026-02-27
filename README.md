@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository!
 This project showcases my **skills, projects, and experience in Cloud Computing and Frontend Development**. It demonstrates my ability to build modern web interfaces and deploy scalable cloud-based applications.
 
 🔗 **Live Portfolio:**  
-https://sri-veni-yellaboyina.vercel.app/
+https://sri-veni-portfolio.vercel.app/
 
 ---
 
@@ -120,7 +120,7 @@ sriveni200517@gmail.com
 https://github.com/Sriveniyellaboyina  
 
 🌐 Portfolio Website:  
-https://sri-veni-yellaboyina.vercel.app/
+https://sri-veni-portfolio.vercel.app/
 
 ---
 
